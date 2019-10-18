@@ -2,5 +2,6 @@ node_modules
 package-lock.json
 *.abi
 *.wasm
+*.privateKey
 .env
 .eosproj
